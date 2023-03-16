@@ -1,0 +1,10 @@
+[
+  {
+    "package": "imputeMulti",
+    "oncran": true
+  },
+  {
+    "package": "synthACS",
+    "oncran": true
+  }
+]
