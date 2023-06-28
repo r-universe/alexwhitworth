@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "imputeMulti"]
 	path = imputeMulti
 	url = https://github.com/alexwhitworth/imputemulti
-	shallow = true
-	registered = true
 [submodule "synthACS"]
 	path = synthACS
 	url = https://github.com/alexwhitworth/synthacs
-	shallow = true
-	registered = true
