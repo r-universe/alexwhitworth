@@ -5,6 +5,3 @@
 [submodule "imputeMulti"]
 	path = imputeMulti
 	url = https://github.com/alexwhitworth/imputemulti
-[submodule "synthACS"]
-	path = synthACS
-	url = https://github.com/alexwhitworth/synthacs
